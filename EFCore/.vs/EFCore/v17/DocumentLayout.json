@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorke\\source\\repos\\EFCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D193F8-155E-4AD2-94AA-9C1E89BC72C8}|EFCore.DatabaseFirstByScaffold\\EFCore.DatabaseFirstByScaffold.csproj|c:\\users\\gorke\\source\\repos\\efcore\\efcore.databasefirstbyscaffold\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D193F8-155E-4AD2-94AA-9C1E89BC72C8}|EFCore.DatabaseFirstByScaffold\\EFCore.DatabaseFirstByScaffold.csproj|solutionrelative:efcore.databasefirstbyscaffold\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D193F8-155E-4AD2-94AA-9C1E89BC72C8}|EFCore.DatabaseFirstByScaffold\\EFCore.DatabaseFirstByScaffold.csproj|c:\\users\\gorke\\source\\repos\\efcore\\efcore.databasefirstbyscaffold\\models\\efcoredatabasefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D193F8-155E-4AD2-94AA-9C1E89BC72C8}|EFCore.DatabaseFirstByScaffold\\EFCore.DatabaseFirstByScaffold.csproj|solutionrelative:efcore.databasefirstbyscaffold\\models\\efcoredatabasefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B6540D-66B5-48CE-87BD-B2B7F5ED0A7B}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|c:\\users\\gorke\\source\\repos\\efcore\\efcore.databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34B6540D-66B5-48CE-87BD-B2B7F5ED0A7B}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|solutionrelative:efcore.databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B6540D-66B5-48CE-87BD-B2B7F5ED0A7B}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|c:\\users\\gorke\\source\\repos\\efcore\\efcore.databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B6540D-66B5-48CE-87BD-B2B7F5ED0A7B}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|solutionrelative:efcore.databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B6540D-66B5-48CE-87BD-B2B7F5ED0A7B}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|c:\\users\\gorke\\source\\repos\\efcore\\efcore.databasefirst\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B6540D-66B5-48CE-87BD-B2B7F5ED0A7B}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|solutionrelative:efcore.databasefirst\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B6540D-66B5-48CE-87BD-B2B7F5ED0A7B}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|c:\\users\\gorke\\source\\repos\\efcore\\efcore.databasefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B6540D-66B5-48CE-87BD-B2B7F5ED0A7B}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|solutionrelative:efcore.databasefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B6540D-66B5-48CE-87BD-B2B7F5ED0A7B}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|c:\\users\\gorke\\source\\repos\\efcore\\efcore.databasefirst\\dal\\dbcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B6540D-66B5-48CE-87BD-B2B7F5ED0A7B}|EFCore.DatabaseFirst\\EFCore.DatabaseFirst.csproj|solutionrelative:efcore.databasefirst\\dal\\dbcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfcoreDatabaseFirstDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirstByScaffold\\Models\\EfcoreDatabaseFirstDbContext.cs",
+              "RelativeDocumentMoniker": "EFCore.DatabaseFirstByScaffold\\Models\\EfcoreDatabaseFirstDbContext.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirstByScaffold\\Models\\EfcoreDatabaseFirstDbContext.cs",
+              "RelativeToolTip": "EFCore.DatabaseFirstByScaffold\\Models\\EfcoreDatabaseFirstDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:10:48.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirstByScaffold\\Program.cs",
+              "RelativeDocumentMoniker": "EFCore.DatabaseFirstByScaffold\\Program.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirstByScaffold\\Program.cs",
+              "RelativeToolTip": "EFCore.DatabaseFirstByScaffold\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:03:15.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "EFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:30:26.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "EFCore.DatabaseFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\appsettings.json",
+              "RelativeToolTip": "EFCore.DatabaseFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T13:22:24.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "EFCore.DatabaseFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\Program.cs",
+              "RelativeToolTip": "EFCore.DatabaseFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:16:18.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\DAL\\Product.cs",
+              "RelativeDocumentMoniker": "EFCore.DatabaseFirst\\DAL\\Product.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\DAL\\Product.cs",
+              "RelativeToolTip": "EFCore.DatabaseFirst\\DAL\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:16:17.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbContextInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\DAL\\DbContextInitializer.cs",
+              "RelativeDocumentMoniker": "EFCore.DatabaseFirst\\DAL\\DbContextInitializer.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirst\\DAL\\DbContextInitializer.cs",
+              "RelativeToolTip": "EFCore.DatabaseFirst\\DAL\\DbContextInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:02:27.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
