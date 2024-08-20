@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirstByScaffold\\EFCore.DatabaseFirstByScaffold.csproj": {}
+    "C:\\Users\\gorke\\OneDrive\\Documents\\GitHub\\Entity-Framework-Core\\EFCore\\EFCore.DatabaseFirstByScaffold\\EFCore.DatabaseFirstByScaffold.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirstByScaffold\\EFCore.DatabaseFirstByScaffold.csproj": {
+    "C:\\Users\\gorke\\OneDrive\\Documents\\GitHub\\Entity-Framework-Core\\EFCore\\EFCore.DatabaseFirstByScaffold\\EFCore.DatabaseFirstByScaffold.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirstByScaffold\\EFCore.DatabaseFirstByScaffold.csproj",
+        "projectUniqueName": "C:\\Users\\gorke\\OneDrive\\Documents\\GitHub\\Entity-Framework-Core\\EFCore\\EFCore.DatabaseFirstByScaffold\\EFCore.DatabaseFirstByScaffold.csproj",
         "projectName": "EFCore.DatabaseFirstByScaffold",
-        "projectPath": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirstByScaffold\\EFCore.DatabaseFirstByScaffold.csproj",
+        "projectPath": "C:\\Users\\gorke\\OneDrive\\Documents\\GitHub\\Entity-Framework-Core\\EFCore\\EFCore.DatabaseFirstByScaffold\\EFCore.DatabaseFirstByScaffold.csproj",
         "packagesPath": "C:\\Users\\gorke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirstByScaffold\\obj\\",
+        "outputPath": "C:\\Users\\gorke\\OneDrive\\Documents\\GitHub\\Entity-Framework-Core\\EFCore\\EFCore.DatabaseFirstByScaffold\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gorke\\AppData\\Roaming\\NuGet\\NuGet.Config",

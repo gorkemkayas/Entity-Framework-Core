@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W0cgWyqA7a4=",
+  "dgSpecHash": "UG/A6ExlA7Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gorke\\source\\repos\\EFCore\\EFCore.DatabaseFirstByScaffold\\EFCore.DatabaseFirstByScaffold.csproj",
+  "projectFilePath": "C:\\Users\\gorke\\OneDrive\\Documents\\GitHub\\Entity-Framework-Core\\EFCore\\EFCore.DatabaseFirstByScaffold\\EFCore.DatabaseFirstByScaffold.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gorke\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\gorke\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
